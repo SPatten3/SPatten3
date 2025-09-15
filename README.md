@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergraduate student at BYU-Idaho, majoring in Industrial-Organizational Psychology, with minors and focuses in statistics and data science programming. In my free time, I enjoy mid-level game development programming and have a passion for creating interesting and meaningful solutions to interesting problems.
+I am an undergraduate student at BYU-Idaho, majoring in Industrial-Organizational Psychology, with minors and focuses in statistics and data science programming. In my free time, I enjoy mid-level game development programming and have a passion for creating interesting solutions to interesting problems.
 
 You can reach me [here](mailto:spencer.patten@hotmail.com) via eamil.
 
