@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there
 
 <!--
 **SPatten3/SPatten3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Spencer and I am still getting used to GitHub
+I am an undergraduate student at BYU-Idaho, majoring in Industrial-Organizational Psychology, with minors and focuses in statistics and data science programming. In my free time, I enjoy mid-level game development programming and have a passion for creating interesting and meaningful solutions to interesting problems.
+
+You can reach me [here](mailto:spencer.patten@hotmail.com) via eamil.
 
 
