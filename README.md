@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am an undergraduate student at BYU-Idaho, majoring in Industrial-Organizational Psychology, with minors and focuses in statistics and data science programming. In my free time, I enjoy mid-level game development programming and have a passion for creating interesting solutions to interesting problems.
 
-You can reach me [here](mailto:spencer.patten@hotmail.com) via eamil.
+Along with undergraduate studies, I am currently working on a personalized, code-first game engine, and have other interests in STEM related fields. You can find my extra-curricular "Learning Logs" posted on the YouTube channel "[Polythamy - Learning Log](https://www.youtube.com/@Polymathy3)"
 
 
